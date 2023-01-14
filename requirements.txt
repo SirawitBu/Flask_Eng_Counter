@@ -29,4 +29,3 @@ mock
 # ----------------------
 gevent
 gunicorn
-your_app
