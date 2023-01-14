@@ -23,7 +23,7 @@ contractions==0.1.72
 # Testing
 # ----------------------
 mock
-
+pip
 
 # ----------------------
 # Production Server
